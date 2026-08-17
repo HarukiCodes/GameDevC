@@ -1,5 +1,3 @@
-// 型変換を確認
-
 #include <stdio.h>
 
 int main(void) {

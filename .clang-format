@@ -1,2 +1,13 @@
-BasedOnStyle: Google
+Language: Cpp
+BasedOnStyle: LLVM
 IndentWidth: 4
+ColumnLimit: 80
+
+# if, forの{}を一行にまとめない
+AllowShortBlocksOnASingleLine: false
+
+# 1行で終わる関数を1行にまとめない
+AllowShortFunctionsOnASingleLine: false
+
+# switch文の `case` ラベルとその処理を1行にまとめない
+AllowShortCaseLabelsOnASingleLine: false

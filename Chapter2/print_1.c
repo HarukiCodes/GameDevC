@@ -1,5 +1,3 @@
-// printf()の使い方を確認
-
 #include <stdio.h>
 
 int main(void) {

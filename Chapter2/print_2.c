@@ -1,5 +1,3 @@
-// フォーマット指定子について確認
-
 #include <stdio.h>
 
 int main(void) {

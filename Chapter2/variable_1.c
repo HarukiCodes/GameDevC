@@ -1,5 +1,3 @@
-// 色々な型を確認
-
 #include <stdio.h>
 
 int main(void) {

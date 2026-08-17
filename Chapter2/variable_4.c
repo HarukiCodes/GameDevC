@@ -1,5 +1,3 @@
-// 小数計算の誤差を確認
-
 #include <stdio.h>
 
 int main(void) {

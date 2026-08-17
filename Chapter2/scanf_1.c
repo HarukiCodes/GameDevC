@@ -1,5 +1,3 @@
-// scanf()の使い方を確認
-
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 

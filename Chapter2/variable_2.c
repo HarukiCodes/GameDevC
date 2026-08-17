@@ -1,5 +1,3 @@
-// 四則の演算子を確認
-
 #include <stdio.h>
 
 int main(void) {

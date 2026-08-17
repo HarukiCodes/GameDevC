@@ -1,5 +1,3 @@
-// 型の違いによる計算結果の違いを確認
-
 #include <stdio.h>
 
 int main(void) {
